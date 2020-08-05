@@ -1,4 +1,4 @@
-# Hi, I'm Debjyoti Chowdhury 💻
+# Hi, I'm Debjyoti 💻
 
 <img src="https://github.com/debjyotiC/debjyotiC/blob/master/banner-2.png">
 

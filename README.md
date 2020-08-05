@@ -1,5 +1,8 @@
 # Hi, I'm Debjyoti Chowdhury 💻
 
+<img src="https://github.com/debjyotiC/debjyotiC/blob/master/banner.png">
+
+## About me: 
 I’m an embedded systems developer, professor and public speaker. I currently work as an Assistant Professor at Heritage Inst. of Technology, Kolkata India. 
 
 - 📱  I’m currently working on TinyML and IoT hardware that uses serverless architecture  .

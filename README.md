@@ -1,7 +1,5 @@
 # Hi, I'm Debjyoti 💻
 
-<img src="https://github.com/debjyotiC/debjyotiC/blob/master/banner-2.png">
-
 ## About me: 
 I’m an embedded systems developer, professor and public speaker. I currently work as an Assistant Professor at Heritage Inst. of Technology, Kolkata India. 
 

@@ -1,12 +1,30 @@
-# Hi, I'm Debjyoti 💻
+# Hi, I'm XYZ 👋💻
 
-## About me: 
-I’m an embedded systems developer, professor and public speaker. I currently work as an Assistant Professor at Heritage Inst. of Technology, Kolkata India. 
+## 👨‍🏫 About Me
+I’m an **Embedded Systems Developer**, **AI/ML Researcher**, and **Public Speaker** with 8+ years of research experience in  
+**Deep Learning, Computer Vision, Proof-of-Concept development, and Edge ML applications**.  
 
-- 📱  I’m currently working on TinyML and IoT hardware that uses serverless architecture  .
-- 🤓 I’m currently learning machine learning and deep learning.
-- 💬  Ask me about AVR/ARM development and micro sensor fabrication.
-- 📫  How to reach me: debjyoti.chowdhury89@gmail.com or LinkedIn 💼 (https://www.linkedin.com/in/dr-debjyoti-chowdhury/)
+Passionate about **bridging hardware with intelligence**, I thrive on solving real-world problems through  
+**cutting-edge research, prototyping, and applied engineering**.
+
+---
+
+## 🔬 What I Do
+- 📱 Designing and building **TinyML** and **IoT hardware** with **serverless architectures**.  
+- 🤖 Exploring **Artificial Intelligence (AI)** and **Machine Learning (ML)** for **edge devices**.  
+- 🛠️ Experienced in **AVR/ARM development**, **micro sensor fabrication**, and **intelligent embedded systems**.  
+- 🚀 Turning **proof-of-concepts** into **scalable, real-world solutions**.  
+
+---
+
+## 💡 Let's Connect
+- 💬 Ask me about embedded systems, IoT, **AI/ML for edge**, and sensor design.  
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/dr-debjyoti-chowdhury/)** 💼  
+
+---
+
+✨ *Always seeking opportunities to innovate, collaborate, and bring impactful ideas from research labs to the real world.*  
+
 
 
 

@@ -1,4 +1,4 @@
-# Hi, I'm XYZ 👋💻
+# Hi, I'm Debjyoti! 👋💻
 
 ## 👨‍🏫 About Me
 I’m an **Embedded Systems Developer**, **AI/ML Researcher**, and **Public Speaker** with 8+ years of research experience in  
